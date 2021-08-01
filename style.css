@@ -1,0 +1,38 @@
+.heading
+{
+    color: rgb(62, 0, 231);
+    width: 100%;
+    box-shadow: 5px 5px 5px rgb(62, 0, 231);
+    font-size: 23px;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: rgb(62, 0, 231);
+}
+
+.btn-success
+{
+    background-color: springgreen;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: springgreen;
+    color: rgb(62, 0, 231);
+    line-height: 3;
+    text-align: center;
+    box-shadow: 5px 5px 5px springgreen;
+}
+
+canvas
+{
+    border: 5px solid rgb(62, 0, 231);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px springgreen;
+}
